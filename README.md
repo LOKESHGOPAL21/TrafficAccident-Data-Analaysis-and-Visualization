@@ -1,6 +1,3 @@
-# PRODIGY_DS_05
-This is my Task 05 under Prodigy InfoTech Intership
-
 # Traffic Accident Data Analysis and Visualization
 
 # Project Overview
